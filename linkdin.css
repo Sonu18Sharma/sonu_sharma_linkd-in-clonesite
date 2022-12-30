@@ -1,0 +1,170 @@
+ @import url('https://fonts.googleapis.com/css2?family=Anton&family=Barlow:wght@100&family=Martian+Mono&family=Oswald:wght@200;500&family=Sevillana&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav{
+    display: flex;
+    
+justify-content: space-between;
+    padding-top: 20px;
+  
+}
+.linkdin-logo{
+    display: flex;
+   padding-left: 210px;
+   font-size: 45px;
+   
+ 
+}
+.menu-list{
+        list-style: none;
+        padding-top: 10px;  
+  
+}
+ul{
+    display: flex;
+    padding-right: 200px;
+    gap: 50px;
+    font-size: 16px;
+    float: right;  
+
+}
+.menu-list a{
+    color: rgb(14, 13, 13);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.button{
+    display: flex;
+    float: right;
+    list-style: none;
+}
+li{
+    list-style: none;
+}
+#button {
+    background-color: rgb(252, 245, 245);
+    border-radius: 20px;
+    padding-block: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 50px;
+    box-shadow: 0px 2px cornflowerblue
+   
+}
+#button_2 {
+    background-color: rgb(252, 245, 245);
+    border-radius: 20px;
+    padding-block: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 50px;
+    box-shadow: 0px 2px cornflowerblue
+   
+}
+.container{
+ margin-inline: 200px;
+}
+.hero{
+    margin-top: 72px;
+}
+h1{
+align-items: flex-start;
+font-family: 'Barlow', sans-serif;
+color: brown;
+font-size: 50px;
+}
+.form{
+    padding-top: 15px;
+
+}
+.form2{
+    padding: 10px;
+    gap: 10px;
+    margin: 10px;
+width: 350px;
+   
+}
+.p{ 
+margin-top: 10px;
+margin-left: 13px;
+}
+.pass{
+    color: black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.p a:hover{
+    color: rgb(53, 125, 250);
+    text-decoration: underline;
+}
+button{
+
+  margin-top: 25px;
+  margin-left:9px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  width: 350px;
+  padding: 10px;
+  background-color: rgb(37, 122, 241);
+  border-radius: 50px;
+  font-size: 19px;
+  box-shadow: 2px 2px rgb(11, 11, 11);
+}
+button a{
+    color: white;
+}
+button a:hover{
+    color: rgb(2, 44, 93);
+}
+.or_{
+    margin-top: 20px;
+    margin-left: 173px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.google a{
+    color: rgb(13, 13, 13);
+}
+.google{
+    background-color: white;
+    box-shadow: 0px 2px rgb(20, 20, 20);
+}
+.google a:hover{
+    color: black;  
+}
+.image1{
+    height: 550px;
+    float: right; 
+}
+.content-topics{
+    background-color: rgb(246, 250, 171);
+    height: 250px;
+    margin-top: 20px;
+}
+.h2para{
+    padding-top: 20px;
+    margin-top: 20px;
+    font-family: 'Barlow', sans-serif;
+    padding-left: 20px;
+    font-size: 45px;
+
+}
+.content5{
+text-align:center;
+margin-left: 200px;
+padding-top: 20px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+
+}
+
+
+ 
+
+
+
+
+
+
